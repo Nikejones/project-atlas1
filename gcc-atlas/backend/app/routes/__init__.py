@@ -1,0 +1,3 @@
+"""
+GCC Atlas routes package
+"""
